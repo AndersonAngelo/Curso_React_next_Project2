@@ -1,4 +1,4 @@
-import { screen } from '@testing-library/dom';
+import { screen } from '@testing-library/react';
 import { TextComponent } from '.';
 import { renderTheme } from '../../styles/render-theme';
 
